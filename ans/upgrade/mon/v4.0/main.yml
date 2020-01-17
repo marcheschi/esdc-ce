@@ -7,6 +7,7 @@
 
 - name: Run /var/lib/rc-scripts/04-mtu-set.sh
   shell: /var/lib/rc-scripts/04-mtu-set.sh
+  ignore_errors: true
 
 # https://github.com/erigones/esdc-factory/pull/130
 - name: enable getty on serial console
