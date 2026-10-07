@@ -9,7 +9,7 @@ This is the main repository for the Danube Cloud project.
 Links
 =====
 
-- Homepage: https://danube.cloud
+- Homepage: To be redefined
 - Download: https://github.com/erigones/esdc-ce/wiki/Download
 - User guide: https://docs.danube.cloud
 - Wiki: https://github.com/erigones/esdc-ce/wiki
